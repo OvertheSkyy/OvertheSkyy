@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OvertheSkyy
-- 👀 I’m interested in doing things that makes me excited.
-- 🌱 I’m currently learning some programming languages.
+- 🌱 I’m currently doing internship @ROC.PH Digital Marketing Services
 - 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in doing things that makes me excited ...
 - 📫 How to reach me ...
 
 <!---
