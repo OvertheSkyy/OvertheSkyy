@@ -1,4 +1,4 @@
-<h1 align="center">Vote for EduGAIte for the Gemini API Developer Competition, thanks!</h1>
+<h1 align="center">Vote EduGAIte for the Gemini API Developer Competition, thanks!</h1>
 <p align="center">
   <a href="https://ai.google.dev/competition/projects/edugaite">
     <img src="https://github.com/user-attachments/assets/50aeaa93-6014-42fd-80a8-14b17232d5106" alt="MasterHead" />
